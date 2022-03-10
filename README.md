@@ -11,10 +11,7 @@ The project was designed using MVVM architecture. It consists of different units
 ## Log in
 You may try the app out using following accounts:
 
-***Logins***:
-
-archer@gmail.ru
-JamesBrown@gmail.com
+***Logins***: archer@gmail.ru ***or*** JamesBrown@gmail.com
 
 ***Password***:
 
