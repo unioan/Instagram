@@ -2,17 +2,22 @@
 
 The purpose of this document is to represent the capabilities of the app. 
 
-## Arhitecture
+## Architecture
 The project was designed using MVVM architecture. It consists of different units which satisfy the architecture requirements. Each unit is responsible for a particular task and has its own behavior. Communication between view and view model is implemented using the observer pattern. 
+
 <img width="250" alt="Project folders" src="https://user-images.githubusercontent.com/76248402/157687384-401c4fa8-c8d9-4b14-9166-e983ca3560e2.png">
 
 
 ## Log in
 You may try the app out using following accounts:
+
 ***Logins***:
+
 archer@gmail.ru
 JamesBrown@gmail.com
+
 ***Password***:
+
 111111
 
 
