@@ -1,6 +1,6 @@
 # Instagram clone
 
-The purpose of this document is to represent the capabilities of the app. 
+The purpose of this document is to present the capabilities of the app. 
 
 ## Architecture
 The project was designed using MVVM architecture. It consists of different units which satisfy the architecture requirements. Each unit is responsible for a particular task and has its own behavior. Communication between view and view model is implemented using the observer pattern. 
@@ -13,9 +13,7 @@ You may try the app out using following accounts:
 
 ***Logins***: archer@gmail.ru ***or*** JamesBrown@gmail.com
 
-***Password***:
-
-111111
+***Password***: 111111
 
 
 ## Table of Contents
